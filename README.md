@@ -1,6 +1,6 @@
 # ico-cryptoDevs
 
-### Project to create a token Crypto Dev from learWeb3 course.
+### Project to create a token Crypto Dev from learnWeb3 course.
 
 ```
 https://nft-collection-two-opal.vercel.app/
